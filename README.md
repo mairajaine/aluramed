@@ -1,1 +1,1 @@
-# aluramed
+# aluramidi
